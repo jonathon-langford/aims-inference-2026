@@ -22,11 +22,7 @@ The directories are organised by sessions, with a separate directory for the pro
 - Tuesday 17th February: 10:00 - 11:00
 - This session...
 
-### Session 5: ADD LLOYD TITLE
-- Wednesday 18th February: 9:00 - 10:00
-- This session...
-
-### Introduction to projects
+### Session 5: Bayesian Model Selection
 - Wednesday 18th February: 10:00 - 11:00
 - Ten mins each + 10 mins to discuss assessment criteria.
 
