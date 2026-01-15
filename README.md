@@ -5,29 +5,30 @@ The directories are organised by sessions, with a separate directory for the pro
 
 ## Structure of week
 
-### General introduction to Inference with AI and overview of sessions
-- Monday 16th February: 9:00 - 10:00
-
 ### Session 1: ADD CALLUM TITLE
-- Monday 16th February: 10:00 - 11:00
+- Monday 16th February: 9:00 - 10:00
 - This session...
 
 ### Session 2: Inference with classifiers
-- Tuesday 17th February: 9:00 - 10:00
+- Monday 16th February: 10:00 - 11:00
 - [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/2_inference_with_classifiers)
 - This session...
 
-### Session 3: ADD LLOYD TITLE
+### Session 3: ADD LAURA TITLE
+- Tuesday 17th February: 9:00 - 10:00
+- This session...
+
+### Session 4: ADD AUSTIN TITLE
 - Tuesday 17th February: 10:00 - 11:00
 - This session...
 
-### Session 4: ADD LAURA TITLE
+### Session 5: ADD LLOYD TITLE
 - Wednesday 18th February: 9:00 - 10:00
 - This session...
 
-### Session 5: ADD AUSTIN TITLE
+### Introduction to projects
 - Wednesday 18th February: 10:00 - 11:00
-- This session...
+- Ten mins each + 10 mins to discuss assessment criteria.
 
 ### Project work
 - Thursday 19th February: 9:00 - 11:00
