@@ -39,8 +39,8 @@ The directories are organised by sessions, with a separate directory for the pro
 To contribute to this repository, please follow these steps:
 1. Fork the repository to your own GitHub account.
 2. Clone your forked repository to your local machine.
-3. Create a new branch for your changes. Make a folder titled "i_session_name" where i is the session number. Only make changes in this folder.
-4. Commit and changes with descriptive messages.
+3. Create a new branch for your changes. Make a folder titled "i_session_name" where i is the session number.
+4. Commit changes with descriptive messages.
 5. Push your changes to your forked repository.
 6. Open a pull request to the main repository for review.
 
