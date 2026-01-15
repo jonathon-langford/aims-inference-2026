@@ -5,7 +5,7 @@ The directories are organised by sessions, with a separate directory for the pro
 
 ## Structure of week
 
-### General introduction to week and overview of projects
+### General introduction to Inference with AI and overview of sessions
 - Monday 16th February: 9:00 - 10:00
 
 ### Session 1: ADD CALLUM TITLE
