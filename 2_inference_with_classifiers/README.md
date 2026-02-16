@@ -6,8 +6,8 @@ This lecture will demonstrate how to use a simple machine learning (ML) classifi
 The slides for this lecture are available [here](lecture_inference_with_classifiers.pdf).
 
 We will cover the following topics:
-- Introduction to intractable likelihoods and the need for SBI in the modern era of science.
 - Brief review of frequentist inference techniques
+- Introduction to intractable likelihoods and the need for SBI in the modern era of science.
 - Understand how to use a simple ML classifier to learn the (log)-likelihood ratio
 - Apply this technique to perform a hypothesis test for a research problem with an unknown likelihood
 - Extend to parameter estimation by learning the conditional likelihood ratio with a parametric classifier. Compare the performance to the analytic solution for a simple 2D Gaussian example.
