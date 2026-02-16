@@ -19,11 +19,11 @@ The best way to understand the material covered in the lecture is to work throug
 
 The easiest way to run the notebooks is to use Google Colab. Just click on the buttons below...
 
-- Hypothesis test (simple 1D Gaussian) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/dev_inference_with_classifiers/2_inference_with_classifiers/notebooks/hypothesis_test_simple.ipynb)
+- Hypothesis test (simple 1D Gaussian) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/main/2_inference_with_classifiers/notebooks/hypothesis_test_simple.ipynb)
 
-- Hypothesis test (particle spin example) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/dev_inference_with_classifiers/2_inference_with_classifiers/notebooks/hypothesis_test_particle_spin.ipynb)
+- Hypothesis test (particle spin example) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/main/2_inference_with_classifiers/notebooks/hypothesis_test_particle_spin.ipynb)
 
-- Parameter estimation (2D Gaussian) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/dev_inference_with_classifiers/2_inference_with_classifiers/notebooks/parameter_estimation.ipynb)
+- Parameter estimation (2D Gaussian) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/main/2_inference_with_classifiers/notebooks/parameter_estimation.ipynb)
 
 If you prefer to run the notebooks locally, you can do so by first cloning this repository, navigating to the [notebooks](notebooks/) directory, setting up a Python environment with the required dependencies, and then running the notebooks using Jupyter Notebook or Jupyter Lab.
 
