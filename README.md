@@ -1,49 +1,38 @@
 # Inference with AI (Week 3)
 This repo stores all the teaching material for Week 3 of the AI in Science at AIMS programme.
 
-The directories are organised by sessions, with a separate directory for the projects. Each session directory contains the lecture slides and accompanying Google Colab notebooks. 
+The directories are organised by sessions. Each session directory contains the lecture slides and any accompanying notebooks. 
+
+We will add the project material on Wednesday 18th February after the lectures have concluded.
 
 ## Structure of week
 
-### Session 1: ADD CALLUM TITLE
-- Monday 16th February: 9:00 - 10:00
-- This session...
+### Session 1: Fitting models to data via simulation-based inference
+- Monday 16th February: 14:00 - 15:00
+- Course leader: Callum Gabbutt
+- [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/1_simulation_based_inference)
 
 ### Session 2: Inference with classifiers
-- Monday 16th February: 10:00 - 11:00
+- Monday 16th February: 15:00 - 16:00
+- Course leader: Jon Langford
 - [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/2_inference_with_classifiers)
-- This session...
 
-### Session 3: ADD LAURA TITLE
-- Tuesday 17th February: 9:00 - 10:00
-- This session...
+### Session 3: Bayesian inference
+- Tuesday 17th February: 14:00 - 15:00
+- Course leader: Laura Helleckes
 
-### Session 4: BO for chemistry 
-- Tuesday 17th February: 10:00 - 11:00
-- This session...
+### Session 4: Bayesian optimisation for chemistry 
+- Tuesday 17th February: 15:00 - 16:00
+- Course leader: Austin Mroz
 
-### Session 5: Bayesian Model Selection
-- Wednesday 18th February: 10:00 - 11:00
-- Ten mins each + 10 mins to discuss assessment criteria.
+### Session 5: Bayesian model selection
+- Wednesday 18th February: 14:00 - 15:00
+- Course leader: Lloyd Fung
 
 ### Project work
-- Thursday 19th February: 9:00 - 11:00
+- Wednesday 18th February: 15:00 - 16:00
+    - This hour will include a brief discussion of the project requirements and assessment criteria at the beginning. We will provide a set of template slides for the presentation, as well as the marking rubric.
+- Thursday 19th February: 14:00 - 16:00
 
 ### Project presentations
-- Friday 20th February: 9:00 - 11:00
-
-## Glossary
-Add glossary terms here...
-
-* SBI - simulation-based inference
-
-## For developers (to be removed)
-To contribute to this repository, please follow these steps:
-1. Fork the repository to your own GitHub account.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your changes. Make a folder titled "i_session_name" where i is the session number.
-4. Commit changes with descriptive messages.
-5. Push your changes to your forked repository.
-6. Open a pull request to the main repository for review.
-
-We can use this [Google Docs](https://docs.google.com/document/d/14mR8bI7YTw_OtEy7c6mz_6T487nm5Z_2500_m4PifMQ/edit?usp=sharing) for a rolling discussion of teaching material.
+- Friday 20th February: 14:00 - 16:00
