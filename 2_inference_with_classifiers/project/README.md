@@ -1,6 +1,6 @@
 # Project: Inferring new physics at the Large Hadron Collider with classifiers
 
-The accompanying notebook for this project can be found  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jonathon-langford/aims-inference-2026/blob/dev_project_jl/2_inference_with_classifiers/project/project.ipynb)
+The accompanying notebook for this project can be found here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathon-langford/aims-inference-2026/blob/dev_project_jl/2_inference_with_classifiers/project/project.ipynb)
 
 ## Introduction
 In this project, you will apply the techniques of neural simulation-based inference (SBI) to a problem in particle physics. You will use neural network classifiers to infer the properties of a new particle $A$.
